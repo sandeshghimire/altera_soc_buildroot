@@ -1372,7 +1372,7 @@ endif
 ifneq "$(HOSTARCH)" "x86_64"
 /home/sandesh/work/altera_soc_buildroot/output/build/buildroot-config/auto.conf: FORCE
 endif
-ifneq "$(BR2_VERSION_FULL)" "2014.08-git-gc4454a2"
+ifneq "$(BR2_VERSION_FULL)" "2014.08-git-g863f46d"
 /home/sandesh/work/altera_soc_buildroot/output/build/buildroot-config/auto.conf: FORCE
 endif
 
