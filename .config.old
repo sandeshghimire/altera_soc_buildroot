@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot 2014.08-git-g1960a7e Configuration
+# Buildroot 2014.08-git-g1960a7e-dirty Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 
@@ -101,7 +101,7 @@ BR2_GNU_MIRROR="http://ftp.gnu.org/pub/gnu"
 BR2_DEBIAN_MIRROR="http://ftp.debian.org"
 BR2_LUAROCKS_MIRROR="http://luarocks.org/repositories/rocks"
 BR2_CPAN_MIRROR="http://cpan.metacpan.org"
-BR2_JLEVEL=0
+BR2_JLEVEL=8
 # BR2_CCACHE is not set
 # BR2_DEPRECATED is not set
 # BR2_ENABLE_DEBUG is not set
